@@ -33,7 +33,8 @@ Zara Model formulation using MLIP
 
 Model using excel
 
-![image](https://user-images.githubusercontent.com/40518603/115872757-cb06c900-a45f-11eb-8a74-0ff9fd558a59.png)
+![image](https://user-images.githubusercontent.com/40518603/115873348-731c9200-a460-11eb-970c-a00ffe68de82.png)
+
 
 
 Final pictorial Solution
